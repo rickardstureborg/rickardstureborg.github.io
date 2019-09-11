@@ -2,7 +2,5 @@ theme: jekyll-theme-cayman
 title: Rickard (Rich) Stureborg
 description: This is a space for information and links about me. Welcome :)
 
-logo: /assets/images/background.png
-
 github:
   is_project_page: false
